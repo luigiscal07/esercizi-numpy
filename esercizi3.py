@@ -34,3 +34,4 @@ c = array_finale.copy()
 c[10:15] = 999
 print("con indici modificati " , c )
 print("originale",array_finale)
+
